@@ -7,7 +7,7 @@ on:
 
 defaults:
  run:
-  working-directory: ./lab_4_api_tests
+  working-directory: ./pipeline
 
 jobs:
   # This job is named "test"
